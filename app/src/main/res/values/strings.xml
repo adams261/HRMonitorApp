@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="placeholder_heartrate">96</string>
+    <string name="placeholder_rollingavg">89</string>
+    <string name="rolling_avg">Rolling avg:</string>
+    <string name="bpm">bpm</string>
+    <string name="ten_min_avg">10 min avg</string>
+    <string name="fifteen_min_avg">15 min avg</string>
+    <string name="bt_connect_button">Connect</string>
+    <string name="no_device_connected">No Device Connected</string>
+    <string name="press_connect">Press the connect button below to search for your device.</string>
+    <string name="hrv">Heart Rate Variability</string>
+    <string name="min">Min</string>
+    <string name="avg">Average</string>
+    <string name="max">Max</string>
+    <string name="placeholder_hrv_min">33 ms</string>
+    <string name="placeholder_hrv_avg">47 ms</string>
+    <string name="placeholder_hrv_max">81 ms</string>
+    <string name="heart_rate">Heart Rate</string>
+    <string name="heart_rate_variability">HRV</string>
+    <string name="mode_selector">Please select the mode you wish to enter:</string>
+    <string name="stop">Stop</string>
+
+</resources>
